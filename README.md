@@ -1,2 +1,2 @@
-# automatic-octo-winner
-fame of finding Crayon Shin-chan's best partner 
+# bestFriendGame
+game of finding Crayon Shin-chan's best partner 
