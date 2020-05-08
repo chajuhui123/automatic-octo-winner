@@ -1,0 +1,22 @@
+body{
+    background-image: url("짱구 배경.jpg") ;
+    background-size:100%;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    background-image: url("짱구 배경.jpg") ;
+    background-size:100%;
+   
+}
+.title{
+    
+    text-align:center;
+    font-weight:bold;
+    flex:1;
+    font-size:50px;
+    
+}
+.main{
+    text-align:center;
+}
