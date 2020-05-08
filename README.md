@@ -1,5 +1,4 @@
 # Like Lion at Hanyang Univ, ERICA 8th Team Crayon's first art!
----------
 🦁This page is first page of Team Crayon!🦁
 <div>
     <h2>Team Page</h2>
