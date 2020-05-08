@@ -7,8 +7,8 @@
 </div>
 <div>
     <h2>Minjung</h2>
-    <img width="900" src="https://user-images.githubusercontent.com/62278377/81419406-2a08fa80-9189-11ea-9807-46faab7fd123.png">
-    <img width="900" src="https://user-images.githubusercontent.com/62278377/81419473-3c833400-9189-11ea-8bd5-033697352323.png">
+    <img width="900" src="https://user-images.githubusercontent.com/62278377/81427403-bd482d00-9195-11ea-9ffb-e03c048335c9.png">
+    <img width="900" src="https://user-images.githubusercontent.com/62278377/81427409-bfaa8700-9195-11ea-9ca0-eb425e1d58c4.png">
 </div>
 <div>
     <h2>Juhui</h2>
