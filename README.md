@@ -24,8 +24,7 @@
     <img width="900" src="https://user-images.githubusercontent.com/63117632/81417953-edd49a80-9186-11ea-9ddf-119ea5cce7c2.png">
     <img width="900" src="https://user-images.githubusercontent.com/63117632/81417948-eca36d80-9186-11ea-9016-96820a18c94a.png">
 </div>
----------
 <div>
-    <h3>Work Date</h3>
+    <h2>Work Date</h2>
     <p>04. 21. ~ 05. 08.</P>
 </div>
