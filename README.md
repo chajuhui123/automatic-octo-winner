@@ -6,9 +6,9 @@
     <img width="900" src="https://user-images.githubusercontent.com/63117632/81418658-f7123700-9187-11ea-9256-c60996ea49e7.png">
 </div>
 <div>
-    <h2>MinJeong</h2>
-    <img width="900" src="https://user-images.githubusercontent.com/63117632/81417464-30e23e00-9186-11ea-8363-8d18c2b6245e.png">
-    <img width="900" src="https://user-images.githubusercontent.com/63117632/81417467-32ac0180-9186-11ea-84c5-8721514e2c49.png">
+    <h1>Minjung</h1>
+    <img width="900" src="https://user-images.githubusercontent.com/62278377/81419406-2a08fa80-9189-11ea-9807-46faab7fd123.png">
+    <img width="900" src="https://user-images.githubusercontent.com/62278377/81419473-3c833400-9189-11ea-8bd5-033697352323.png">
 </div>
 <div>
     <h2>JuHui</h2>
