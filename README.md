@@ -1,7 +1,8 @@
 # Like Lion at Hanyang Univ, ERICA 8th Team Crayon's first art!
-🦁This page is first page of Team Crayon!🦁
+🦁This page is first page of Team Crayon!🦁   
+Page Link : <https://chajuhui123.github.io/bestFriendGame/>
 <div>
-    <h2>Team Page</h2>
+    <h2>>Team Page</h2>
     <img width="900" src="https://user-images.githubusercontent.com/63117632/81418658-f7123700-9187-11ea-9256-c60996ea49e7.png">
 </div>
 <div>
@@ -24,6 +25,7 @@
     <img width="900" src="https://user-images.githubusercontent.com/63117632/81417953-edd49a80-9186-11ea-9ddf-119ea5cce7c2.png">
     <img width="900" src="https://user-images.githubusercontent.com/63117632/81417948-eca36d80-9186-11ea-9016-96820a18c94a.png">
 </div>
+
 <div>
     <h2>Work Date</h2>
     <p>04. 21. ~ 05. 08.</P>
