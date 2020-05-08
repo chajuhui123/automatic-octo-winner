@@ -1,5 +1,5 @@
 # Like Lion at Hanyang Univ, ERICA 8th Team Crayon's first art
-🦁This game is finding a good partner of Crayon!🦁
+🦁This page is first page of Team Crayon!🦁
 
 <div>
     <h1>Team Page</h1>
